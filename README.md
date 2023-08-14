@@ -1,7 +1,7 @@
 # second_detailui
 
 A new Flutter project.
-
+ControlledAnimation was deleted a long time ago, so the effects were incomplete,  I will try to complete it.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
