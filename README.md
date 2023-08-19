@@ -1,5 +1,5 @@
 # second_detailui
-![image](https://github.com/tungtrieu0801/Flutter_Project_Day2/assets/126808438/9ae4144f-4ff9-41d2-831a-29f48ec34884)
+
 
 A new Flutter project.
 ControlledAnimation was deleted a long time ago, so the effects were incomplete,  I will try to complete it.
